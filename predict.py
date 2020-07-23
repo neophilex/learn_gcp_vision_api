@@ -1,9 +1,11 @@
+#additing the comments to each line
 import sys
 import os 
 
+
+#setting environment variables and importing libraries
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "sa-neophilex-automl-admin.json"
 from google.cloud import automl
-from google.cloud.automl_v1beta1.proto import service_pb2
 
 
 # 'content' is base-64-encoded image data.
