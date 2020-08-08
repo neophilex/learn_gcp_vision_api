@@ -1,0 +1,7 @@
+first line
+second line
+third line
+
+l i n e  w i t h  s paces
+
+duplicate duplicate duplicate words in the same line
